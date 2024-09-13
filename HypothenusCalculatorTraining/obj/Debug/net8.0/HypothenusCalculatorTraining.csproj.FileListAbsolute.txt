@@ -1,0 +1,14 @@
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/HypothenusCalculatorTraining/HypothenusCalculatorTraining/bin/Debug/net8.0/HypothenusCalculatorTraining
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/HypothenusCalculatorTraining/HypothenusCalculatorTraining/bin/Debug/net8.0/HypothenusCalculatorTraining.deps.json
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/HypothenusCalculatorTraining/HypothenusCalculatorTraining/bin/Debug/net8.0/HypothenusCalculatorTraining.runtimeconfig.json
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/HypothenusCalculatorTraining/HypothenusCalculatorTraining/bin/Debug/net8.0/HypothenusCalculatorTraining.dll
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/HypothenusCalculatorTraining/HypothenusCalculatorTraining/bin/Debug/net8.0/HypothenusCalculatorTraining.pdb
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/HypothenusCalculatorTraining/HypothenusCalculatorTraining/obj/Debug/net8.0/HypothenusCalculatorTraining.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/HypothenusCalculatorTraining/HypothenusCalculatorTraining/obj/Debug/net8.0/HypothenusCalculatorTraining.AssemblyInfoInputs.cache
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/HypothenusCalculatorTraining/HypothenusCalculatorTraining/obj/Debug/net8.0/HypothenusCalculatorTraining.AssemblyInfo.cs
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/HypothenusCalculatorTraining/HypothenusCalculatorTraining/obj/Debug/net8.0/HypothenusCalculatorTraining.csproj.CoreCompileInputs.cache
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/HypothenusCalculatorTraining/HypothenusCalculatorTraining/obj/Debug/net8.0/HypothenusCalculatorTraining.dll
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/HypothenusCalculatorTraining/HypothenusCalculatorTraining/obj/Debug/net8.0/refint/HypothenusCalculatorTraining.dll
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/HypothenusCalculatorTraining/HypothenusCalculatorTraining/obj/Debug/net8.0/HypothenusCalculatorTraining.pdb
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/HypothenusCalculatorTraining/HypothenusCalculatorTraining/obj/Debug/net8.0/HypothenusCalculatorTraining.genruntimeconfig.cache
+/Users/rashidkadisha/Library/Mobile Documents/com~apple~CloudDocs/mac/c#/HypothenusCalculatorTraining/HypothenusCalculatorTraining/obj/Debug/net8.0/ref/HypothenusCalculatorTraining.dll
